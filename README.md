@@ -43,7 +43,7 @@ Fizz
 ```
 
 ## Why?
-¯\_(ツ)_/¯
+¯\\_(ツ)_/¯
 
 ## LICENSE
 Please don't actually use this for anything.
